@@ -1,0 +1,8 @@
+# See the kitty.conf_bkup for annotated settings suggestions
+
+
+font_family 	Hack Nerd Font Mono
+font_size 		20.0
+bold_font 		auto
+italic_font 	auto
+
